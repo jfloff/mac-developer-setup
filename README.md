@@ -1,2 +1,3 @@
-# mac-developer-setup
-Installing and maintaining a development environment on Mac OSX 
+# Mac Setup for the Middle Earth Developer
+
+Why do I do this stuff? Each fresh install I have to make, I struggle with all the 
