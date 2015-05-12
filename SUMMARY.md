@@ -2,5 +2,5 @@
 
 * [introduction](README.md)
 * [Apendix](apendix.md)
-   * Format Checklist
+   * [Format Checklist](format_checklist.md)
 
