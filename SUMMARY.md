@@ -1,6 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-* [Apendix](apendix.md)
+* [Format](apendix.md)
    * [Format Checklist](format_checklist.md)
 
