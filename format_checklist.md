@@ -10,6 +10,5 @@ So next time I will not forget anything, here's a nice pretty format checklist w
     *  ~/Downloads - *I usually clean this folder beforehand*
     *  ~/Dropbox - *optional*
 *  **Settings:**
-    *  ~/Library/ *(I usually backup the whole folder and over time copy settings from it)*
-    *  ~/Library/Keychains *(so I can keep all those wifi passwords)*
+    *  ~/Library/ - *I usually backup the whole folder and over time copy settings from it.*
     *  
