@@ -12,4 +12,4 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 6. You now have a bootable Yosemite install drive.
 ![](http://i.imgur.com/hJwiO.gif)
 
-Onto formatting ... Just restart the computer and press the Option Key ⌥ (ALT key).
+Onto formatting ... Just restart the computer and press the Option Key (⌥ - ALT) 
