@@ -17,4 +17,3 @@ So next time I will not forget anything, here's a nice pretty format checklist w
     ```
 
     *  If you manage any "legal" software, you might want to backup those patchers. I keep all of those in a folder in *Downloads*.
-    *  
