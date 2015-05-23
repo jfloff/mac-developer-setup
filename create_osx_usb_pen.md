@@ -10,6 +10,8 @@ sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstall
 4. Then the Terminal window displays the progress of the process, in a very Terminal sort of way, by displaying a textual representation of a progress bar: Erasing Disk: 0%... 10 percent...20 percent... and so on. 
 5. The program then tells you it’s copying the installer files, making the disk bootable, and copying boot files. Wait until you see the text Copy Complete. Done. This process can take as long as 20 or 30 minutes, depending on how fast your Mac can copy data to your destination drive. It can be a frustating experience since Terminal doesn't provide a lot of input on the status of the process, but just hang on.
 6. You now have a bootable Yosemite install drive.
+
+
 ![](http://i.imgur.com/hJwiO.gif)
 
-Onto formatting ... Just restart the computer and press the Option Key (⌥ - ALT) 
+Onto formatting ... Just restart the computer and press the Option Key (⌥).
