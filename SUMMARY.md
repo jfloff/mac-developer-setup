@@ -5,5 +5,5 @@
    * [Format Checklist](format_checklist.md)
    * [Create OSX USB Pen](create_osx_usb_pen.md)
    * [General Settings](general_settings.md)
-   * Applications
+   * [Applications](applications.md)
 
