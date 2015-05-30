@@ -8,3 +8,4 @@
 * **[The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12)**: the all-in-one compress/uncompress app.
 
 ### Developer Tools
+* **[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)**: Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. This reliably prevents private data from being sent out without your knowledge.
