@@ -22,3 +22,10 @@ Is that a bunch a screenshots? Yup! There's a screenshot for each main OSX Yosem
 * Hot Corners
 
 ![](hot corners.png)
+
+* Security & Privacy
+    * I changed my password to use a one different from my iCloud account.
+    * I also turned on Firewall. Better safe than sorry.
+
+![](security.png)
+
