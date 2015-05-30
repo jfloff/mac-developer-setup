@@ -4,28 +4,34 @@
 
 Is that a bunch a screenshots? Yup! There's a screenshot for each main OSX Yosemite *Systems Settings* panel, so next time I know exactly my settings.
 
-* **General**
+#### General
 
 ![](general.png)
 
 
-* **Dock**
+#### Dock
 
 ![](dock.png)
 
 
-* **Mission Control**
+#### Mission Control
 
 ![](mission control.png)
 
 
-* **Hot Corners**
+#### Hot Corners
 
 ![](hot corners.png)
 
-* **Security & Privacy**
-    * I changed my password to use a one different from my iCloud account.
-    * I also turned on Firewall. Better safe than sorry.
+#### Security & Privacy
 
 ![](security.png)
 
+I changed my password to use a one different from my iCloud account. I also turned on Firewall. Better safe than sorry.
+
+
+#### Spotlight
+
+As you can notice, I disable Spotlight shortcut. And that's because I use an even better app: [Alfred](http://www.alfredapp.com/). Hence, I disable the Spotlight shortcut and use that one for Alfred. Further, I disable 
+
+![](spotlight.png)
