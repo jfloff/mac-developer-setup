@@ -32,6 +32,8 @@ I changed my password to use a one different from my iCloud account. I also turn
 
 #### Spotlight
 
-As you can notice, I disable Spotlight shortcut. And that's because I use an even better app: [Alfred](http://www.alfredapp.com/). Hence, I disable the Spotlight shortcut and use that one for Alfred. Further, I disable 
-
 ![](spotlight.png)
+
+As you can notice, I disable Spotlight shortcut. And that's because I use an even better app: [Alfred](http://www.alfredapp.com/). Hence, I disable the Spotlight shortcut and use that one for Alfred. 
+
+Furthermore, I disable spotlight shortcut from the menubar, and heres how. 
