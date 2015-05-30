@@ -4,26 +4,26 @@
 
 Is that a bunch a screenshots? Yup! There's a screenshot for each main OSX Yosemite *Systems Settings* panel, so next time I know exactly my settings.
 
-* General
+* **General**
 
 ![](general.png)
 
 
-* Dock
+* **Dock**
 
 ![](dock.png)
 
 
-* Mission Control
+* **Mission Control**
 
 ![](mission control.png)
 
 
-* Hot Corners
+* **Hot Corners**
 
 ![](hot corners.png)
 
-* Security & Privacy
+* **Security & Privacy**
     * I changed my password to use a one different from my iCloud account.
     * I also turned on Firewall. Better safe than sorry.
 
