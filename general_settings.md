@@ -51,6 +51,10 @@ sudo chmod 755 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
 
 First of all I removed the apps I don't use: Mail and Safari.
 
+Then I edited my notification center with the following widgets:
+* 
+
+
 
 #### iCloud
 
