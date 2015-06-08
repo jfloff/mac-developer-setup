@@ -17,3 +17,4 @@ Chrome settings are pretty standard, so I won't bother with those. And even toug
 * **Dropbox for Gmail**: I must for Dropbox users. you can send and preview Dropbox files and links without leaving your Gmail window.
 * **Print Friendly & PDF**: Quick and easy way to create a pdf documents from any webpage.
 * **Session Buddy**: Easy and simple management of your browser sessions. I use it to save pages from a certain topic I'm working on, without keeping them eternally open.
+* **Alfred**:
