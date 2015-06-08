@@ -47,13 +47,10 @@ This does not completely disable Spotlight, it only removes its GUI. To re-enabl
 ```shell
 sudo chmod 755 /System/Library/CoreServices/Search.bundle/Contents/MacOS/Search
 ```
+
 #### Notifications
 
-First of all I removed the apps I don't use: Mail and Safari.
-
-Then I edited my notification center with the following widgets:
-* 
-
+First of all I removed the apps I don't use: Mail and Safari. Then I edited my notification center with the just the widgets that I use: Social, Calendar, iTunes, Weather.
 
 
 #### iCloud
