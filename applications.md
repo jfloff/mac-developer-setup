@@ -9,6 +9,7 @@
 * **[Dropbox](https://www.dropbox.com/downloading?os=mac)**: You know, it's Dropbox.
 * **[Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)**: Full read-write compatibility with NTFS-formatted drives on a Mac. I've tried other alternatives but Tuxera its the only one that works for me.
 
+
 ### Developer Tools
 * **[XCode](https://itunes.apple.com/app/xcode/id497799835?mt=12)**: Xcode provides everything developers need to create applications for Mac, iPhone, and iPad.
 * **[Atom](https://atom.io/)**: Atom is Github take on text editors. It's main features is the extensibility of its core, and that's why I intend to use it more from now on.
@@ -19,3 +20,5 @@
 
 ### Others
 * **[Alinof Timer](https://itunes.apple.com/us/app/alinof-timer/id512464723?mt=12)**: Alinof Timer is a very easy to use timer for your Mac.
+* **Transmission**:
+* **VLC**: 
