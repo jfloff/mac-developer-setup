@@ -17,4 +17,15 @@ Chrome settings are pretty standard, so I won't bother with those. And even toug
 * **Dropbox for Gmail**: I must for Dropbox users. you can send and preview Dropbox files and links without leaving your Gmail window.
 * **Print Friendly & PDF**: Quick and easy way to create a pdf documents from any webpage.
 * **Session Buddy**: Easy and simple management of your browser sessions. I use it to save pages from a certain topic I'm working on, without keeping them eternally open.
-* **Alfred**:
+
+### Alfred
+There are many little configurations you can do in Alfred, here are the ones I use:
+* I start by setting the Alfred hotkey the same as the ex-Spotlight hotkey (CMD+Space). 
+* In *General Tab > Contacts > Email*, you can set Gmail webclient as your default email tool.
+* In *General Tab > System* activate `eject` option to eject removable media
+* In *Appearance > Options* I select to hide both the Alfred hat from the bar, and the Alfred menubar icon.
+
+
+
+
+
