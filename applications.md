@@ -7,7 +7,7 @@
 * **[Alfred](http://www.alfredapp.com/)**: replacement for Spotlight. And even tough Yosemite brought Spotlight to another level, I still can't live without my Alfred shortcuts.
 * **[The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12)**: the all-in-one compress/uncompress app.
 * **[Dropbox](https://www.dropbox.com/downloading?os=mac)**: You know, it's Dropbox.
-* **[Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)*: Full read-write compatibility with NTFS-formatted drives on a Mac. I've tried other alternatives but Tuxera its the only one that works for me.
+* **[Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)**: Full read-write compatibility with NTFS-formatted drives on a Mac. I've tried other alternatives but Tuxera its the only one that works for me.
 
 ### Developer Tools
 * **[XCode](https://itunes.apple.com/app/xcode/id497799835?mt=12)**: Xcode provides everything developers need to create applications for Mac, iPhone, and iPad.
@@ -18,4 +18,4 @@
 * **[Keynote](https://itunes.apple.com/us/app/keynote/id409183694?mt=12&ls=1), [Numbers](https://itunes.apple.com/us/app/numbers/id409203825?mt=12&ls=1) and [Pages](https://itunes.apple.com/us/app/pages/id409201541?mt=12&ls=1)**: the Apple office suite. Oh, it's free!
 
 ### Others
-* **[Alinof Timer](https://itunes.apple.com/us/app/alinof-timer/id512464723?mt=12): Alinof Timer is a very easy to use timer for your Mac.
+* **[Alinof Timer](https://itunes.apple.com/us/app/alinof-timer/id512464723?mt=12)**: Alinof Timer is a very easy to use timer for your Mac.
