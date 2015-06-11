@@ -20,5 +20,5 @@
 
 ### Others
 * **[Alinof Timer](https://itunes.apple.com/us/app/alinof-timer/id512464723?mt=12)**: Alinof Timer is a very easy to use timer for your Mac.
-* **Transmission**:
-* **VLC**: 
+* **Transmission**: Torrent management done right.
+* **VLC**: The best media player. Period.
