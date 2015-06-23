@@ -1,6 +1,6 @@
 # General Settings
 
-![](https://33.media.tumblr.com/51e823c71b55ccbda3b83501ec7bc78a/tumblr_nojspeQLd81uqyj6qo1_500.gif)
+
 
 Is that a bunch a screenshots? Yup! There's a screenshot for each main OSX Yosemite *Systems Settings* panel, so next time I know exactly my settings.
 
