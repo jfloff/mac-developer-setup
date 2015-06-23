@@ -9,7 +9,7 @@ Yes, I will give them all ... And if you want more, checkout ***Homebrew*** chap
 * **[Alfred](http://www.alfredapp.com/)**: replacement for Spotlight. And even tough Yosemite brought Spotlight to another level, I still can't live without my Alfred shortcuts.
 * **[The Unarchiver](https://itunes.apple.com/app/the-unarchiver/id425424353?mt=12)**: the all-in-one compress/uncompress app.
 * **[Caffeine](https://itunes.apple.com/app/caffeine/id411246225?mt=12)**: Stops from going into sleep mode. Great for long reading.
-* [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
+* **[CheatSheet](http://www.grandtotal.biz/CheatSheet/)**: Tap the command key for long to see all the keyboard shortcuts of the current app.
 
 ### Developer Tools
 * **[XCode](https://itunes.apple.com/app/xcode/id497799835?mt=12)**: Xcode provides everything developers need to create applications for Mac, iPhone, and iPad.
