@@ -8,4 +8,5 @@
    * [Applications](applications.md)
    * [Application Settings](application_settings.md)
 * [Homebrew](homebrew.md)
+   * Homebrew Cask
 
