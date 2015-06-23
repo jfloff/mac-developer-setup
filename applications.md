@@ -1,6 +1,8 @@
 # Applications
 
+![](http://38.media.tumblr.com/baf53ab09b58e522fed626507079db3e/tumblr_inline_n1mfkwta9E1srtckl.gif)
 
+Yes, I will give them all ... And if you want more, checkout ***Homebrew*** chapter ;)
 
 ### Productivity
 * **[Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/)**: even though Safari is getting better, it still doesn't beat Chrome. The centralization of bookmarks, addons, history, and all other things keeps thing simple and organized. Not to mention the amazing developer tools Chrome has.
