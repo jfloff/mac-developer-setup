@@ -11,12 +11,11 @@ Yes, I will give them all ... And if you want more, checkout ***Homebrew*** chap
 * **[Caffeine](https://itunes.apple.com/app/caffeine/id411246225?mt=12)**: Stops from going into sleep mode. Great for long reading.
 * [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
 
-
-
 ### Developer Tools
 * **[XCode](https://itunes.apple.com/app/xcode/id497799835?mt=12)**: Xcode provides everything developers need to create applications for Mac, iPhone, and iPad.
 * **[Atom](https://atom.io/)**: Atom is Github take on text editors. It's main features is the extensibility of its core, and that's why I intend to use it more from now on.
 * **[Sublime Text](www.sublimetext.com/3)**: Even tough I will be using Atom, I still recomend Sublime Text. It's still the best editor, and if you don't want all that Atom hacking, go for it.
+* **[iTerm2](https://www.iterm2.com/)** iTerm2 brings the Terminal into the modern age with features you never knew you always wanted.
 
 ### Office
 * **[Keynote](https://itunes.apple.com/us/app/keynote/id409183694?mt=12&ls=1), [Numbers](https://itunes.apple.com/us/app/numbers/id409203825?mt=12&ls=1) and [Pages](https://itunes.apple.com/us/app/pages/id409201541?mt=12&ls=1)**: the Apple office suite. Oh, it's free!
