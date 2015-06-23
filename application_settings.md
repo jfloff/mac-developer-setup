@@ -24,6 +24,7 @@ There are many little configurations you can do in Alfred, here are the ones I u
 * In *General Tab > Contacts > Email*, you can set Gmail webclient as your default email tool.
 * In *General Tab > System* activate `eject` option to eject removable media
 * In *Appearance > Options* I select to hide both the Alfred hat from the bar, and the Alfred menubar icon.
+* In *Features > Terminal* selected your correct terminal application (e.g. *iTerm2*)
 
 
 
