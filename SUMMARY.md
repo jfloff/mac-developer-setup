@@ -1,11 +1,11 @@
 # Summary
 
-* [introduction](README.md)
 * [Format](apendix.md)
    * [Format Checklist](format_checklist.md)
    * [Create OSX USB Pen](create_osx_usb_pen.md)
    * [General Settings](general_settings.md)
    * [Applications](applications.md)
    * [Application Settings](application_settings.md)
+* [introduction](README.md)
 * [Homebrew](homebrew.md)
 
