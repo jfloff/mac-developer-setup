@@ -9,5 +9,5 @@
    * [General Settings](general_settings.md)
    * [Applications](applications.md)
    * [Application Settings](application_settings.md)
-* iTerm
+* [iTerm](iterm.md)
 
