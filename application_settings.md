@@ -1,8 +1,8 @@
 # Application Settings
 
-What, more settings? Yup, this time is for the settings in some of the key applications we've downloaded previously. 
-
 ![](http://38.media.tumblr.com/tumblr_m9uxllBduo1r3xbgy.gif)
+
+Let me help you with that Merry. Here, take a couple more settings. This time is for the settings in some of the key applications we've downloaded previously. 
 
 Ah, there's more screenshots. Yup, I'm still feeling lazy.
 
