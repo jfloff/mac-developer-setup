@@ -28,6 +28,8 @@ There are many little configurations you can do in Alfred, here are the ones I u
 * In *Appearance > Options* I select to hide both the Alfred hat from the bar, and the Alfred menubar icon.
 * In *Features > Terminal* selected your correct terminal application (e.g. *iTerm2*)
 
+I also use a couple of interesting workflows, namely:
+* **[alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)**: workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 
 
