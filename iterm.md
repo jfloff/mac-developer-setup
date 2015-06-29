@@ -7,15 +7,25 @@ It's just like Bilbo says: if you intend ride a horse all day, you just learn ho
 
 ![](http://28.media.tumblr.com/tumblr_lxjxfkj2bi1r0pci8o1_500.gif)
 
-### Config Files
+### Shell Config Files
 
-As I was researching this I found myself in a bit of confusion between ```.bashrc``` and ```.bash_profile```. This answers explains the difference very nicely, but in a nutshell:
+As I was researching this I found myself in a bit of confusion between ```.bashrc``` and ```.bash_profile```. [This](http://stackoverflow.com/a/415444) answers explains the difference very nicely, but in a nutshell:
 * ```.profile``` is simply the login script filename originally used by ```/bin/sh```.
 * ```.bashrc```, ```.zshrc```, amongst others are config files that are read by "interactive" shells (as in, ones connected to a terminal.
     * ```.bashrc``` is only read by a shell that's both interactive and non-login
 * Other shells behave differently - eg with ```zsh```, ```.zshrc``` is always read for an interactive shell, whether it's a login one or not.
 
-To avoid all this mess
+To avoid all this mess, I concentrate all the configurations in ```.bashrc```, and then I tell all the other files to read from that file, using something like:
+
+```shell
+[[ -r ~/.bashrc ]] && . ~/.bashrc
+```
+
+To avoid all this mess, I concentrate all the profiles in a single file: ```.bashrc```. And
+
+
+
+**Warning:** This can have obvious side effects. If you don't want a specific command running in a certain type of shell, you might have to re-think this a bit.
 
 ### iTerm 
 If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour: install **iTerm2**. Future you will thank both you and me.
