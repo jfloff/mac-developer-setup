@@ -9,5 +9,5 @@
    * [General Settings](general_settings.md)
    * [Applications](applications.md)
    * [Application Settings](application_settings.md)
-* [Shell](shellmd)
+* [Shell](shell.md)
 
