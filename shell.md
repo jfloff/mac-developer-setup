@@ -41,7 +41,7 @@ Now, if your terminal doesn't look like this,
 ![](https://www.dropbox.com/s/3yvgky963r5wyyy/Screenshot%202015-06-29%2022.47.47.png)
 
 don't worry! I've been there... It was awful. But stay calm, lets be a good Hobit and go through some steps:
-* Confirm you iTerm terminal type in  iTerm2 Preferences > Terminal > Report Terminal Type, set to either xterm-256color or xtermAdd the following lines to .bashrc:
+* Confirm you iTerm terminal type in *Profiles - Default > Terminal > Report Terminal Type*, set to **```xterm-256color```**. Then add the following lines to .bashrc:
 
 ```shell
 # Set CLICOLOR if you want Ansi Colors in iTerm2 
@@ -51,21 +51,12 @@ export CLICOLOR=1
 export TERM=xterm-256color
 ```
 
+* Check if *Profiles - Default > Colors > Minimum Contrast* value it's high. If it is you might only get black and white.
 
-* Uncheck the "Draw bold text in bright color".
+* Uncheck the "Draw bold text in bright color" in *Profiles - Default > Text*.
 
 
+#### Other settings
+* **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 
-####Open tab/pane with current working directory
-Under **Profiles** tab, go to **General** subtab, set **Working Directory** to *“Reuse previous session’s directory”.
-
-#### System-wide hotkey to toggle iTerm2
-Under **Keys** tab, in **Hotkey** section, enable *“Show/hide iTerm2 with a system-wide hotkey”* and input your hotkey combination, e.g. I use ```Ctrl + Shift + L```.
-
-#### Switch pane with mouse cursor
-Under **Pointer**, in **Miscellaneous Settings** section, enable *“Focus follows mouse”*.
-
-#### Colors and Font Settings
-
-* Download the **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro)** font, and change the iTerm font to the Source Code Pro Lite 14pt.
-* Download the **** iTerm colors from here. And then set these to your default profile colors.
+* **System-wide hotkey:** Under *Keys > Hotkey** section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```.
