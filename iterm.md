@@ -1,6 +1,6 @@
 # iTerm
 
-If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour, and install iTerm2. Future you will thank both you and me.
+If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour: install **iTerm2**. Future you will thank both you and me.
 
 Now on to some cool settings
 
