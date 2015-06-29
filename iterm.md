@@ -2,7 +2,9 @@
 
 If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour: install **iTerm2**. Future you will thank both you and me.
 
-Now on to some cool settings
+
+### Colors and Font Settings
+
 
 ####Open tab/pane with current working directory
 Under **Profiles** tab, go to **General** subtab, set **Working Directory** to *“Reuse previous session’s directory”.
