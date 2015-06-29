@@ -38,10 +38,11 @@ Then, go to *Preferences* and load the Solarized Dark file that you just unzippe
 
 Now, if your terminal doesn't look like this,
 
-![](https://www.dropbox.com/s/3yvgky963r5wyyy/Screenshot%202015-06-29%2022.47.47.png?dl=0)
+![](https://www.dropbox.com/s/3yvgky963r5wyyy/Screenshot%202015-06-29%2022.47.47.png)
 
 don't worry! I've been there... It was awful. But stay calm, lets be a good Hobit and go through some steps:
-* Add the following lines to .bashrc:
+* Confirm you iTerm terminal type in  iTerm2 Preferences > Terminal > Report Terminal Type, set to either xterm-256color or xtermAdd the following lines to .bashrc:
+
 ```shell
 # Set CLICOLOR if you want Ansi Colors in iTerm2 
 export CLICOLOR=1
@@ -49,6 +50,7 @@ export CLICOLOR=1
 # Set colors to match iTerm2 Terminal Colors
 export TERM=xterm-256color
 ```
+
 
 * Uncheck the "Draw bold text in bright color".
 
