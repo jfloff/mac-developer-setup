@@ -40,7 +40,7 @@ Now, if your terminal doesn't look like this,
 
 ![](https://www.dropbox.com/s/3yvgky963r5wyyy/Screenshot%202015-06-29%2022.47.47.png)
 
-don't worry! I've been there... It was awful. But stay calm, lets be a good Hobit and go through some steps:
+don't worry! I've been there... I want my 3 hours back. But stay calm, lets be a good Hobit and go through some steps:
 * Confirm you iTerm terminal type in *Profiles - Default > Terminal > Report Terminal Type*, set to **```xterm-256color```**. Then add the following lines to .bashrc:
 
 ```shell
