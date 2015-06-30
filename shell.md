@@ -37,9 +37,10 @@ Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Sh
 
 Et Voilá!
 
-#### Always on
+#### Run at startup
 
 Now for the previous setting to work really well, your iTerm should be always on. To do that
+
 
 #### Colors Settings
 
@@ -68,9 +69,12 @@ export TERM=xterm-256color
 
 * Uncheck the "Draw bold text in bright color" in *Profiles - Default > Text*.
 
+
+
 #### Font settings
 
 Download and install [Source Code Pro](https://github.com/adobe-fonts/source-code-pro). In *Profile - Default > Text* change the font to Source Code Pro Lite. Source Code Pro can be downloaded from here.
+
 
 
 #### Other settings
