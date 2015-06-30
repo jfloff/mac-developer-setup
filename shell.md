@@ -31,7 +31,9 @@ If you're still using Terminal, stop it. Right now. Just close it, remove the sh
 
 iTerm 2 has a very useful and timesaving feature where you can make the terminal dropdown from the top of the screen with just a key press. Very useful if you need access to the terminal quickly, and don’t want to alt + tab to eternity.
 
-To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here you should see a dropdown menu called ‘Style’. Choose ‘Top of screen’ in the dropdown. Also, you might want to set the transparency as I've done. 
+To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here you should see a dropdown menu called "Style". Choose **"Top of screen"** in the dropdown. Also, you might want to up the transparency a bit, so you can see while typing. 
+
+Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
 
 Next, set the global hot key for bringing up the terminal window. This is done in iTerm > Preferences > Keys (NOT the ‘Keys’ tab under ‘profiles’) and then tick off ‘Show/hide iTerm2 with a system-wide hotkey’
 
@@ -66,4 +68,4 @@ export TERM=xterm-256color
 #### Other settings
 * **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 
-* **System-wide hotkey:** Under *Keys > Hotkey** section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```.
+* 
