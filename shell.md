@@ -2,7 +2,7 @@
 
 The shell is the bread and butter of any developer. Hence you should the right amount of time configuring it to fit your needs, and to make sure you maximize your performance while using it.
 
-Many people use the command line every day and never bother to customize their prompts. It's just like Bilbo says: if you intend ride a horse all day, you just learn how to ride a horse.
+Many people use the command line every day and never bother to customize their prompts. It's just like Bilbo says: if you intend to ride a horse all day, you need to learn how to ride a horse.
 
 ![](http://28.media.tumblr.com/tumblr_lxjxfkj2bi1r0pci8o1_500.gi)
 
