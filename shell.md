@@ -68,4 +68,4 @@ export TERM=xterm-256color
 #### Other settings
 * **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 
-* 
+* **Disable bell:** go to *Profiles - Default > Terminal* and check the **"Check silence bell"** checkbox.
