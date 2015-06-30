@@ -35,7 +35,7 @@ To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here 
 
 Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
 
-Next, set the global hot key for bringing up the terminal window. This is done in iTerm > Preferences > Keys (NOT the ‘Keys’ tab under ‘profiles’) and then tick off ‘Show/hide iTerm2 with a system-wide hotkey’
+Et Voilá! 
 
 #### Colors Settings
 
