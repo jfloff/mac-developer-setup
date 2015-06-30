@@ -27,9 +27,13 @@ To avoid all this mess, I concentrate all the configurations in ```.bashrc```, a
 ### iTerm 
 If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour: install **[iTerm2](https://www.iterm2.com/)**. Future you will thank both you and me.
 
-#### Dropdown from the top
+#### Terminal Drop down
 
-iTerm 2 has a feature where you can make the terminal drop down from the top of the screen with just a key press. Very useful if you need access to the terminal quickly, and don’t want to alt + tab to eternity.
+iTerm 2 has a very useful and timesaving feature where you can make the terminal dropdown from the top of the screen with just a key press. Very useful if you need access to the terminal quickly, and don’t want to alt + tab to eternity.
+
+To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here you should see a dropdown menu called ‘Style’. Choose ‘Top of screen’ in the dropdown. Also, you might wan’t to set the transparency as I’ve done. It just helps a bit to be able to see what’s behind. Play around with it.
+
+Next, set the global hot key for bringing up the terminal window. This is done in iTerm > Preferences > Keys (NOT the ‘Keys’ tab under ‘profiles’) and then tick off ‘Show/hide iTerm2 with a system-wide hotkey’
 
 #### Colors Settings
 
