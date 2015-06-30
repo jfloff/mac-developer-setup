@@ -35,7 +35,11 @@ To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here 
 
 Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
 
-Et Voilá! 
+Et Voilá!
+
+#### Always on
+
+Now for the previous setting to work really well, your iTerm should be always on. To do that
 
 #### Colors Settings
 
@@ -63,6 +67,10 @@ export TERM=xterm-256color
 * Check if *Profiles - Default > Colors > Minimum Contrast* value it's high. If it is you might only get black and white.
 
 * Uncheck the "Draw bold text in bright color" in *Profiles - Default > Text*.
+
+#### Font settings
+
+Download and install [Source Code Pro](https://github.com/adobe-fonts/source-code-pro). In *Profile - Default > Text* change the font to Source Code Pro Lite. Source Code Pro can be downloaded from here.
 
 
 #### Other settings
