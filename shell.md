@@ -2,10 +2,11 @@
 
 The shell is the bread and butter of any developer (well, not really but you get the point). Hence you should the right amount of time configuring it to fit your needs, and to make sure you maximize your performance while using it.
 
-
 It's just like Bilbo says: if you intend ride a horse all day, you just learn how to ride a horse.
 
 ![](http://28.media.tumblr.com/tumblr_lxjxfkj2bi1r0pci8o1_500.gi)
+
+
 
 ### Shell Config Files
 
@@ -24,8 +25,14 @@ To avoid all this mess, I concentrate all the configurations in ```.bashrc```, a
 **Warning:** This can have obvious side effects. If you don't want a specific command running in a certain type of shell, you might have to re-think this a bit.
 
 
+
+
+
+
 ### iTerm 
 If you're still using Terminal, stop it. Right now. Just close it, remove the shortcuts and do yourself a favour: install **[iTerm2](https://www.iterm2.com/)**. Future you will thank both you and me.
+
+
 
 #### Terminal Drop down
 
@@ -37,9 +44,14 @@ Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Sh
 
 Et Voilá!
 
+
+
+
 #### Run at startup
 
 Now for the previous setting to work really well, your iTerm should be always on. To do that
+
+
 
 
 #### Colors Settings
@@ -70,11 +82,11 @@ export TERM=xterm-256color
 * Uncheck the "Draw bold text in bright color" in *Profiles - Default > Text*.
 
 
-
+<!--
 #### Font settings
 
 Download and install [Source Code Pro](https://github.com/adobe-fonts/source-code-pro). In *Profile - Default > Text* change the font to Source Code Pro Lite. Source Code Pro can be downloaded from here.
-
+-->
 
 
 #### Other settings
