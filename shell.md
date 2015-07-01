@@ -89,4 +89,7 @@ Download and install [Source Code Pro](https://github.com/adobe-fonts/source-cod
 * **Disable bell:** go to *Profiles - Default > Terminal* and check the **"Check silence bell"** checkbox.
 
 
-### Oh My ZSH!
+### Oh My ZSH
+
+*Oh My ZSH* is a community-driven framework for managing your zsh configuration. The great thing about it is the plugin variety that you can install, and the amazing themes you have at your disposal. All of that paired with an auto-update tool that makes your life much easier.
+
