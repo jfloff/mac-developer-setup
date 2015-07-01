@@ -38,11 +38,7 @@ iTerm 2 has a very useful and timesaving feature where you can make the terminal
 
 To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here you should see a dropdown menu called "Style". Choose **"Top of screen"** in the dropdown. Also, you might want to up the transparency a bit, so you can see while typing. 
 
-Next set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
-
-Et Voilá!
-
-
+Finally, we set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
 
 
 #### Run at startup
@@ -91,3 +87,6 @@ Download and install [Source Code Pro](https://github.com/adobe-fonts/source-cod
 * **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 
 * **Disable bell:** go to *Profiles - Default > Terminal* and check the **"Check silence bell"** checkbox.
+
+
+### Oh My ZSH!
