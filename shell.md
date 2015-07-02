@@ -109,5 +109,5 @@ My personal choice is the **pygmalion* theme. To set the theme, open the `~/.zsh
  You can choose the plugins you want from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview). Enable the plugins you want by editing your ```~/.zshrc``` file, just like my plugins:
  
  ```shell
-plugins=(atom aws bower brew bundler common-aliases docker encode64 gem git git-extras github httpie jsontools last-working-dir osx ruby rvm sublime vagrant wd colored-man colorize cp extract brew brew-cask)
+plugins=(atom brew common-aliases encode64 git git-extras github httpie jsontools last-working-dir osx sublime wd colored-man colorize cp extract brew brew-cask vagrant ruby rvm gem docker bundler aws bower)
  ```
