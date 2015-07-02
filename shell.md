@@ -7,7 +7,6 @@ Many people use the command line every day and never bother to customize their p
 ![](http://28.media.tumblr.com/tumblr_lxjxfkj2bi1r0pci8o1_500.gi)
 
 
-
 ### Shell Config Files
 
 As I was researching this I found myself in a bit of confusion between ```.bashrc```,  ```.bash_profile```, ```.profile```, etc. [This](http://stackoverflow.com/a/415444) answers explains the difference very nicely, but in a nutshell:
@@ -41,13 +40,6 @@ iTerm 2 has a very useful and timesaving feature where you can make the terminal
 To enable this, go to *iTerm > Preferences > Profiles - Default > Window*, here you should see a dropdown menu called "Style". Choose **"Top of screen"** in the dropdown. Also, you might want to up the transparency a bit, so you can see while typing. 
 
 Finally, we set a **system-wide hotkey**. Under *Keys > Hotkey* section, enable **“Show/hide iTerm2 with a system-wide hotkey”** and input your hotkey combination, e.g. ```Ctrl + Shift + L```. 
-
-
-#### Run at startup
-
-Now for the previous setting to work really well, your iTerm should be always on. To do that
-
-
 
 
 #### Colors Settings
