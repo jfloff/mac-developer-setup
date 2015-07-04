@@ -9,13 +9,13 @@ By far the best package manager for Mac OS. And trust me, I've been there with *
 Before installing [Homebrew](http://brew.sh/) make sure you have installed **Command Line Tools for Xcode**. This will be installed together with Xcode, but if you want to just install the Command Line Tools and not the full Xcode package, you can use this command:
 
 ```shell
-xcode-select --install
+$ xcode-select --install
 ```
 
 Now that we've have everything, lets rock:
 
 ```shell
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 ### Brews
