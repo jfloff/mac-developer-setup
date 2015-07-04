@@ -35,7 +35,7 @@ $ brew cask install dropbox
 $ brew cask install transmission
 $ brew cask install vlc
 $ brew cask install apptrap
-$ brew cask install 
+$ brew cask install apptrap
 $ brew cask install asepsis
 ```
 
