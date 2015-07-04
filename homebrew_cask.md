@@ -2,7 +2,7 @@
 
 You know how we Mac users brag about our installers? The famous "To install, drag this icon"? Well, that's about to change.
 
-Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike.
+[Homebrew Cask](http://caskroom.io/) extends Homebrew and brings its elegance, simplicity, and speed to OS X applications and large binaries alike.
 
 Your software is just one command away from being ready and raring to go. Forget all about babysitting the install process step by step, from website to cleanup.
 
@@ -11,4 +11,15 @@ Cask does one thing, does it well, and plays nice with others. Apps are kept in 
 
 ### Instalation
 
+First, make sure you need Homebrew installed, and then run this line:
+
+```shell
 brew install caskroom/cask/brew-cask
+```
+
+### Quick look plugins
+Some plugins to enable different files to work with Mac Quicklook.
+* Preview source code files with syntax highlighting:
+```
+brew cask install qlcolorcode
+```
