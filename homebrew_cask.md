@@ -19,7 +19,35 @@ brew install caskroom/cask/brew-cask
 
 ### Quick look plugins
 Some plugins to enable different files to work with Mac Quicklook.
-* Preview source code files with syntax highlighting:
+* Preview source code files with syntax highlighting.
 ```
 brew cask install qlcolorcode
+```
+* Preview plain text files without a file extension.
+```
+brew cask install qlstephen
+```
+* Preview Markdown files
+```
+brew cask install qlmarkdown
+```
+* Preview JSON files
+```
+brew cask install quicklook-json
+```
+* Preview .patch files
+```
+brew cask install qlprettypatch
+```
+* Preview CSV files
+```
+brew cask install quicklook-csv
+```
+* Preview archives
+```
+brew cask install betterzipql
+```
+* Display image size and resolution
+```
+brew cask install qlimagesize
 ```
