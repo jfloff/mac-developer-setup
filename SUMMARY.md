@@ -11,5 +11,5 @@
    * [Application Settings](application_settings.md)
 * [Shell](shell.md)
    * [iTerm](iterm.md)
-   * Oh My ZSH!
+   * [Oh My ZSH!](oh_my_zsh.md)
 
