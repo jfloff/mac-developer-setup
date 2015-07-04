@@ -52,4 +52,8 @@ Since I’m not a vi or emacs pianist, I prefer standard Apple Text bindings whe
 ### Other settings
 * **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 * **Disable bell:** go to *Profiles - Default > Terminal* and check the **"Check silence bell"** checkbox.
-    
+
+<br>
+
+That's right, we've fallen into ***iTerm's darksness***!
+![](http://25.media.tumblr.com/3f5c9cac69387e803763ee5b1d35019e/tumblr_mhv1cxlzim1s3uvpwo5_500.gif)
