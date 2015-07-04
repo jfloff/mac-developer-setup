@@ -74,10 +74,13 @@ export TERM=xterm-256color
 * **Open tab/pane with current working directory:** go to *Profiles - Default > General** and set **Working Directory** to *“Reuse previous session’s directory”.
 * **Disable bell:** go to *Profiles - Default > Terminal* and check the **"Check silence bell"** checkbox.
 * **Change shortcuts:** Since I’m not a vi or emacs pianist, I prefer standard Apple Text bindings when editing the command line, so I set them up in *Global Shortcut Keys* under *Keys* tabs:
-    * ⌥←: Go left one word (Send Escape Sequence | b)
-    * ⌥→: Go right one word (Send Escape Sequence | f)
-    * ⌘←: Go to start of line (Send Hex Code | 0x01)
-    * ⌘→: Go to end of line (Send Hex Code | 0x05)
+    * **⌥←**: Go left one word (Send Escape Sequence | b)
+    * **⌥→**: Go right one word (Send Escape Sequence | f)
+    * **⌘←**: Go to start of line (Send Hex Code | 0x01)
+    * **⌘→**: Go to end of line (Send Hex Code | 0x05)
+    * **⌥←Delete**: Delete word (Send Hex Code | 0x1B 0x08)
+    * **⌘←Delete**: Delete line (Send Hex Code | 0x15)
+    
 
 
 
