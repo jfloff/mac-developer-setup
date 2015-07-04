@@ -8,7 +8,7 @@
    * [Application Settings](application_settings.md)
 * [Homebrew](homebrew.md)
    * [Homebrew Cask](homebrew_cask.md)
-* [Shell](shell.md)
+* [Terminal](shell.md)
    * [iTerm](iterm.md)
    * [Oh My ZSH!](oh_my_zsh.md)
 
