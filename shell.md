@@ -1,4 +1,4 @@
-# Shell
+# Terminal
 
 The shell is the bread and butter of any developer. Hence you should the right amount of time configuring it to fit your needs, and to make sure you maximize your performance while using it.
 
