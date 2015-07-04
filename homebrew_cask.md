@@ -22,6 +22,7 @@ $ brew install caskroom/cask/brew-cask
 Usually, I use the App Store for the applications that are available (to take advantage its auto-update feature). When That doesn't happen, I install it using *cask*. 
 
 Here's a list of all applications (even the ones that are on the App store) that I have mentioned in the apps section:
+
 ```shell
 $ brew cask install alfred
 $ brew cask install google-chrome
