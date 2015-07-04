@@ -14,8 +14,10 @@ Before installing Homebrew make sure you have installed **Command Line Tools for
 xcode-select --install
 ```
 
-
 Now that we've have everything, lets rock:
+
 ```shell
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+### Brews
