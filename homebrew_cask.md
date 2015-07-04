@@ -22,6 +22,21 @@ $ brew install caskroom/cask/brew-cask
 Usually, I use the App Store for the applications that are available (to take advantage its auto-update feature). When That doesn't happen, I install it using *cask*. 
 
 Here's a list of all applications (even the ones that are on the App store) that I have mentioned in the apps section:
+```shell
+$ brew cask install alfred
+$ brew cask install google-chrome
+$ brew cask install caffeine
+$ brew cask install cheatsheet
+$ brew cask install atom
+$ brew cask install sublime-text
+$ brew cask install iterm2
+$ brew cask install dropbox
+$ brew cask install transmission
+$ brew cask install vlc
+$ brew cask install apptrap
+$ brew cask install 
+$ brew cask install asepsis
+```
 
 ### Quick look plugins
 [Plugins](https://github.com/sindresorhus/quick-look-plugins) to enable different files to work with Mac OSX's Quicklook feature.
