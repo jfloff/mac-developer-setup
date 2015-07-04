@@ -10,4 +10,5 @@
    * [Applications](applications.md)
    * [Application Settings](application_settings.md)
 * [Shell](shell.md)
+   * iterm
 
