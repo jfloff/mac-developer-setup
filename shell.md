@@ -23,12 +23,12 @@ To avoid all this mess, I concentrate all the configurations in ```.bashrc```, a
 
 **Warning:** This can have obvious side effects. If you don't want a specific command running in a certain type of shell, you might have to re-think this a bit.
 
-In the end, your shell should look like this? Isn't that awesome?
+
+Now we are going to install **iTerm** and **Oh My ZSH!**, and when its all done, your shell should look like this: 
 
 ![](final_shell.png)
 
-
-
+Isn't that awesome?
 
 
 # Oh My ZSH
