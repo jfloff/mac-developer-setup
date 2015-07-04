@@ -14,7 +14,7 @@ Cask does one thing, does it well, and plays nice with others. Apps are kept in 
 First, make sure you need Homebrew installed, and then run this line:
 
 ```shell
-brew install caskroom/cask/brew-cask
+$ brew install caskroom/cask/brew-cask
 ```
 
 ### Applications
@@ -28,11 +28,11 @@ Here's a list of all applications (even the ones that are on the App store) that
 
 | Description | Install |
 | -- | -- |
-| Preview source code files with syntax highlighting | ```brew cask install qlcolorcode``` |
-| Preview plain text files without a file extension | ```brew cask install qlstephen``` |
-| Preview Markdown files | ```brew cask install qlmarkdown``` |
-| Preview JSON files | ```brew cask install quicklook-json``` |
-| Preview .patch files | ```brew cask install qlprettypatch``` |
-| Preview CSV files | ```brew cask install quicklook-csv``` |
-| Preview archives | ```brew cask install betterzipql``` |
-| Display image size and resolution | ```brew cask install qlimagesize``` |
+| Preview source code files with syntax highlighting | ```$ brew cask install qlcolorcode``` |
+| Preview plain text files without a file extension | ```$ brew cask install qlstephen``` |
+| Preview Markdown files | ```$ brew cask install qlmarkdown``` |
+| Preview JSON files | ```$ brew cask install quicklook-json``` |
+| Preview .patch files | ```$ brew cask install qlprettypatch``` |
+| Preview CSV files | ```$ brew cask install quicklook-csv``` |
+| Preview archives | ```$ brew cask install betterzipql``` |
+| Display image size and resolution | ```$ brew cask install qlimagesize``` |
