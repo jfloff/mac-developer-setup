@@ -17,7 +17,11 @@ First, make sure you need Homebrew installed, and then run this line:
 brew install caskroom/cask/brew-cask
 ```
 
-### Appli
+### Applications
+
+Usually, I use the App Store for the applications that are available (to take advantage its auto-update feature). When That doesn't happen, I install it using *cask*. 
+
+Here's a list of all applications (even the ones that are on the App store) that I have mentioned in the apps section:
 
 ### Quick look plugins
 [Plugins](https://github.com/sindresorhus/quick-look-plugins) to enable different files to work with Mac OSX's Quicklook feature.
