@@ -4,7 +4,7 @@
 
 To install it just run this command:
 ```shell
-curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
 ### Theme
