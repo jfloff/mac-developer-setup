@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Homebrew](homebrew.md)
-   * Homebrew Cask
+   * [Homebrew Cask](homebrew_cask.md)
 * [Format](apendix.md)
    * [Format Checklist](format_checklist.md)
    * [Create OSX USB Pen](create_osx_usb_pen.md)
