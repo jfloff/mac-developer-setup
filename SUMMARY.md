@@ -7,7 +7,6 @@
 * [Homebrew](homebrew.md)
    * [Homebrew Cask](homebrew_cask.md)
 * [Applications](applications.md)
-   * [Application Settings](application_settings.md)
    * teste
 * [Terminal](terminal.md)
    * [iTerm](iterm.md)
