@@ -24,3 +24,7 @@ plugins=(atom brew common-aliases encode64 git git-extras
     ruby rvm gem docker bundler aws bower)
  ```
 
+<br>
+
+That's right, we've fallen into ***shell's darksness***!
+![](http://25.media.tumblr.com/3f5c9cac69387e803763ee5b1d35019e/tumblr_mhv1cxlzim1s3uvpwo5_500.gif)
