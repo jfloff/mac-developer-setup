@@ -55,5 +55,6 @@ Since I’m not a vi or emacs pianist, I prefer standard Apple Text bindings whe
 
 <br>
 
-That's right, we've fallen into ***shell's darksness***!
-![](http://25.media.tumblr.com/3f5c9cac69387e803763ee5b1d35019e/tumblr_mhv1cxlzim1s3uvpwo5_500.gif)
+![](http://urubutrix.files.wordpress.com/2013/04/3balrog__gandalf_falling-1.gif?w=600)
+
+*What's that?*
