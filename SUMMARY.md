@@ -11,5 +11,5 @@
 * [Terminal](terminal.md)
    * [iTerm](iterm.md)
    * [Oh My ZSH!](oh_my_zsh.md)
-* Git
+* [Git](git.md)
 
