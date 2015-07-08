@@ -61,12 +61,8 @@ On iCloud I removed the apps that I don't use: Mail and Safari. Then, I setup iC
 
 If you find yourself trying to open a dotfile via terminal, and doing this: ```open .bashrc```; then this might be the tip for you. The best assign your favorite editor to all plain text files. For example (for Atom):
 ```
-defaults write com.apple.LaunchServices LSHandlers -array-add '{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.sublimetext.3;}'
+defaults write com.apple.LaunchServices LSHandlers -array-add '{LSHandlerContentType=public.plain-text;LSHandlerRoleAll=com.github.atom;}'
 ```
 
-Replace XXXX with your editor's string. This can be found in the app's Info.plist. Right click the app in question and click on *Show package contents > Open Contents-> open Info.plist*. Locate the key `CFBundleIdentifier` the string value below is the string in question.
-
-For me, this changed the defaults for both Finder, and
-
-$ open ~/.bashrc
+Replace ```com.github.atom``` with your editor's string. This can be found in the app's Info.plist. Right click the app in question and click on *Show package contents > Open Contents-> open Info.plist*. Locate the key `CFBundleIdentifier` the string value below is the string in question.
 
