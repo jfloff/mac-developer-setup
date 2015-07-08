@@ -18,7 +18,13 @@ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh >
 source ~/.antigen/antigen.zsh
 ```
 
-Next we edit our ```.zshrc``` with the typical antigen settings. Here's my own:
+### Theme and Plugins
+Now you can customize your shell with a theme, choosing one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). My personal choice is the *pygmalion* theme.
+
+You can choose the plugins you want from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview).
+
+Both theme and plugins are going to be placed on the antigen configuration in our ```.zshrc``` file. Here's my own:
+
 ```shell
 source /.antigen/antigen.zsh
 
@@ -58,25 +64,6 @@ antigen theme pygmalion
 # Tell antigen that you're done.
 antigen apply
 ```
-
-### Theme
-Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). My personal choice is the *pygmalion* theme. To enable a theme, just type (replace *pygmalion* with a theme of your choice):
-
-```shell
-antigen theme pygmalion
-```
-
-
-### Plugins
-
- You can choose the plugins you want from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview). To install plugins just type ```antigen Enable the plugins you want by editing your ```~/.zshrc``` file, just like my plugins:
- 
- ```shell
-plugins=(atom brew common-aliases encode64 git git-extras
-    github httpie jsontools last-working-dir osx sublime wd
-    colored-man colorize cp extract brew brew-cask vagrant
-    ruby rvm gem docker bundler aws bower)
- ```
 
 <br>
 
