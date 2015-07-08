@@ -26,11 +26,28 @@ source /.antigen/antigen.zsh
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
+antigen bundle atom
+antigen bundle aws
+antigen bundle bundler
+antigen bundle common-aliases
+antigen bundle gem
 antigen bundle git
-antigen bundle heroku
-antigen bundle pip
-antigen bundle lein
-antigen bundle command-not-found
+antigen bundle git-extras
+antigen bundle github
+antigen bundle httpie
+antigen bundle jsontools
+antigen bundle last-working-dir
+antigen bundle osx
+antigen bundle ruby
+antigen bundle rvm
+antigen bundle wd
+antigen bundle colored-man
+antigen bundle colorize
+antigen bundle cp
+antigen bundle extract
+antigen bundle brew
+antigen bundle brew-cask
+antigen bundle unixorn/autoupdate-antigen.zshplugin
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
