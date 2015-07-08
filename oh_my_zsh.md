@@ -7,8 +7,23 @@ To install it just run this command:
 $ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+### Antigen
+
+[Antigen](http://antigen.sharats.me/) is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. Its like a package manager for *zsh* shells.
+
+To install just run this commands:
+```shell
+curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
+source antigen.zsh
+```
+
+
 ### Theme
-Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). In order to enable a theme, set ```ZSH_THEME``` to the name of the theme in your ```~/.zshrc```; for example: ```ZSH_THEME=agnoster```. If you do not want any theme enabled, just set ```ZSH_THEME``` to blank: ```ZSH_THEME=''```.
+Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). To enable a theme, just type:
+
+```shell
+antigen theme pygmalion
+```. If you do not want any theme enabled, just set ```ZSH_THEME``` to blank: ```ZSH_THEME=''```.
 
 My personal choice is the **pygmalion* theme. To set the theme, open the `~/.zshrc` file and look for the line starting with `ZSH_THEME`. Paste the name of your theme.
 
