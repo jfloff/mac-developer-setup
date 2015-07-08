@@ -17,7 +17,6 @@ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh >
 source antigen.zsh
 ```
 
-
 ### Theme
 Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). My personal choice is the *pygmalion* theme. To enable a theme, just type (replace *pygmalion* with a theme of your choice):
 
