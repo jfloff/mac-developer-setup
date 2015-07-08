@@ -17,7 +17,7 @@ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh >
 source antigen.zsh
 ```
 
-Next we need to tell antigen to use oh-my-zsh:
+Next we need to tell antigen to use *oh-my-zsh*:
 ```shell
 antigen use oh-my-zsh
 ```
