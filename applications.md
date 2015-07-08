@@ -28,3 +28,4 @@ Yes, I will give them all ... And if you want more, checkout ***Homebrew*** chap
 * **[AppTrap](http://onnati.net/apptrap/)**: with AppTrap when you move an application to the trash, you're automatically asked if you want to move the associated preference files as well.
 * **[Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/)**: Full read-write compatibility with NTFS-formatted drives on a Mac. I've tried other alternatives but Tuxera its the only one that works for me.
 * **[Asepsis](http://asepsis.binaryage.com/)**: Get rid of the annoying ```.DS_Store``` files. It stops them from being created anywhere on the system.
+* **[smcFanControl](http://www.eidac.de/)**: lets the user set the speed a minimum speed for built-in fans. It allows you to increase your minimum fan speed to make your Mac run cooler ⛄.
