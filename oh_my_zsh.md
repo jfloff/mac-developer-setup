@@ -24,12 +24,10 @@ Now you can customize your shell with a theme, choose one from this [list](https
 antigen theme pygmalion
 ```
 
-To set the theme, open the `~/.zshrc` file and look for the line starting with `ZSH_THEME`. Paste the name of your theme.
-
 
 ### Plugins
 
- You can choose the plugins you want from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview). Enable the plugins you want by editing your ```~/.zshrc``` file, just like my plugins:
+ You can choose the plugins you want from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview). To install plugins just type ```antigen Enable the plugins you want by editing your ```~/.zshrc``` file, just like my plugins:
  
  ```shell
 plugins=(atom brew common-aliases encode64 git git-extras
