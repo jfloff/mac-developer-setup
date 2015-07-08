@@ -18,9 +18,28 @@ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh >
 source ~/.antigen/antigen.zsh
 ```
 
-Next we need to tell antigen to use *oh-my-zsh*:
+Next we edit our ```.zshrc``` with the typical antigen settings. Here's my own:
 ```shell
+source /.antigen/antigen.zsh
+
+# Load the oh-my-zsh's library.
 antigen use oh-my-zsh
+
+# Bundles from the default repo (robbyrussell's oh-my-zsh).
+antigen bundle git
+antigen bundle heroku
+antigen bundle pip
+antigen bundle lein
+antigen bundle command-not-found
+
+# Syntax highlighting bundle.
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+# Load the theme.
+antigen theme robbyrussell
+
+# Tell antigen that you're done.
+antigen apply
 ```
 
 ### Theme
