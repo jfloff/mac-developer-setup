@@ -13,8 +13,9 @@ $ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh 
 
 To install just run this commands:
 ```shell
-curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
-source antigen.zsh
+mkdir ~/.antigen
+curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > ~/.antigen/antigen.zsh
+source ~/.antigen/antigen.zsh
 ```
 
 Next we need to tell antigen to use *oh-my-zsh*:
