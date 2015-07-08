@@ -1,6 +1,6 @@
-# Oh My ZSH
+# Oh My ZSH!
 
-*[Oh My ZSH](http://ohmyz.sh/)* is a community-driven framework for managing your zsh configuration. The great thing about it is the plugin variety that you can install, and the amazing themes you have at your disposal. All of that paired with an auto-update tool that makes your life much easier.
+*[oh-my-zsh](http://ohmyz.sh/)* is a community-driven framework for managing your zsh configuration. The great thing about it is the plugin variety that you can install, and the amazing themes you have at your disposal. All of that paired with an auto-update tool that makes your life much easier.
 
 To install it just run this command:
 ```shell
@@ -15,6 +15,11 @@ To install just run this commands:
 ```shell
 curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
 source antigen.zsh
+```
+
+Next we need to tell antigen to use oh-my-zsh:
+```shell
+antigen use oh-my-zsh
 ```
 
 ### Theme
