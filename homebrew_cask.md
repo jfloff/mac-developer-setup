@@ -17,6 +17,12 @@ First, make sure you need Homebrew installed, and then run this line:
 $ brew install caskroom/cask/brew-cask
 ```
 
+After installing I also change the application directory for the symlinks Cask create. With this settings all your applications will be inside ```/Applications``` folder.
+
+```shell
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+```
+
 ### Applications
 
 Usually, I use the App Store for the applications that are available (to take advantage its auto-update feature). When That doesn't happen, I install it using *cask*. 
@@ -37,6 +43,7 @@ $ brew cask install vlc
 $ brew cask install apptrap
 $ brew cask install apptrap
 $ brew cask install asepsis
+$ brew cask install smcfancontrol
 ```
 
 ### Quick look plugins
