@@ -53,11 +53,11 @@ antigen bundle cp
 antigen bundle extract
 antigen bundle brew
 antigen bundle brew-cask
-antigen bundle command-not-found
 antigen bundle unixorn/autoupdate-antigen.zshplugin
-
-# Syntax highlighting bundle.
+antigen bundle command-not-found
 antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-completions src
+antigen bundle zsh-users/zsh-history-substring-search
 
 # Load the theme.
 antigen theme pygmalion
