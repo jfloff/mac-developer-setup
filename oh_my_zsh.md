@@ -19,13 +19,13 @@ source antigen.zsh
 
 
 ### Theme
-Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). To enable a theme, just type:
+Now you can customize your shell with a theme, choose one from this [list](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes). My personal choice is the *pygmalion* theme. To enable a theme, just type (replace *pygmalion* with a theme of your choice):
 
 ```shell
 antigen theme pygmalion
-```. If you do not want any theme enabled, just set ```ZSH_THEME``` to blank: ```ZSH_THEME=''```.
+```
 
-My personal choice is the **pygmalion* theme. To set the theme, open the `~/.zshrc` file and look for the line starting with `ZSH_THEME`. Paste the name of your theme.
+To set the theme, open the `~/.zshrc` file and look for the line starting with `ZSH_THEME`. Paste the name of your theme.
 
 
 ### Plugins
