@@ -53,6 +53,7 @@ antigen bundle cp
 antigen bundle extract
 antigen bundle brew
 antigen bundle brew-cask
+antigen bundle command-not-found
 antigen bundle unixorn/autoupdate-antigen.zshplugin
 
 # Syntax highlighting bundle.
