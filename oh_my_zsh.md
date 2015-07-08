@@ -7,6 +7,10 @@ To install it just run this command:
 $ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
+### Aliases
+
+Create a ALIASES FILES
+
 ### Antigen
 
 [Antigen](http://antigen.sharats.me/) is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. Its like a package manager for *zsh* shells.
