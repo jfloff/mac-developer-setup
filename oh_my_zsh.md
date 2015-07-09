@@ -9,7 +9,15 @@ $ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh 
 
 ### Aliases
 
-Create a ALIASES FILES
+Create an alias files where we will place all our aliases, let's call it ```.zsh_aliases```. Here is my file:
+
+```shell
+```
+
+Finally add this line to your ```.zshrc``` so your aliases files is sourced correctly.
+
+```shell
+```
 
 ### Antigen
 
@@ -17,9 +25,9 @@ Create a ALIASES FILES
 
 To install just run this commands:
 ```shell
-mkdir ~/.antigen
-curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > ~/.antigen/antigen.zsh
-source ~/.antigen/antigen.zsh
+$ mkdir ~/.antigen
+$ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > ~/.antigen/antigen.zsh
+$ source ~/.antigen/antigen.zsh
 ```
 
 ### Theme and Plugins
