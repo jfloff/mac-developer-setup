@@ -14,9 +14,6 @@ Create an alias files where we will place all our aliases, let's call it ```.zsh
 ```shell
 alias edit="${EDITOR} $1"
 
-# -------------------------------------------------------------------
-# directory movement
-# -------------------------------------------------------------------
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
