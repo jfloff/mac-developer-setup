@@ -12,11 +12,20 @@ $ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh 
 Create an alias files where we will place all our aliases, let's call it ```.zsh_aliases```. Here is my file:
 
 ```shell
+alias edit="${EDITOR} $1"
+
+# -------------------------------------------------------------------
+# directory movement
+# -------------------------------------------------------------------
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
 ```
 
 Finally add this line to your ```.zshrc``` so your aliases files is sourced correctly.
 
 ```shell
+[ -e "${HOME}/.zsh_aliases" ] && source "${HOME}/.zsh_aliases"
 ```
 
 ### Antigen
