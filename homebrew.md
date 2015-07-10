@@ -20,4 +20,6 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 
 On a an new terminal run the following command to make sure everything works and to clean the installation files:
 
+```shell
 $ brew doctor
+````
