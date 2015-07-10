@@ -17,3 +17,7 @@ Now that we've have everything, lets rock:
 ```shell
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+On a an new terminal run the following command to make sure everything works and to clean the installation files:
+
+$ brew doctor
