@@ -24,4 +24,4 @@ Just execute this command and then restart terminal:
 echo 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"' >> ~/.zshrc
 ```
 
-Take note that this command is for zsh shell. If you use your normal
+Take note that this command is for *zsh* shell. 
