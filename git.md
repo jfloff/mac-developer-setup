@@ -10,4 +10,18 @@ What's a developer without Git? To install, simply run:
 $ brew install git
 ```
 
+Now type:
 
+```shell
+$ which git
+```
+
+... oops! looks like our OS is still using the pre-installed version of git.To fix it you need to tell bash to look in the correct path for the Homebrew managed version of Git.
+
+Just execute this command and then restart terminal:
+
+```shell
+echo 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"' >> ~/.zshrc
+```
+
+Take note that this command is for zsh shell. If you use your normal
