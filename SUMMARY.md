@@ -12,5 +12,5 @@
    * [iTerm](iterm.md)
    * [Oh My ZSH!](oh_my_zsh.md)
 * [Git](git.md)
-* Ruby
+* [Ruby](ruby.md)
 
