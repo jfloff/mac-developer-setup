@@ -24,4 +24,10 @@ Just execute this command and then restart terminal:
 echo 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"' >> ~/.zshrc
 ```
 
-Take note that this command is for *zsh* shell. 
+Take note that this command is for *zsh* shell.
+
+### Git config
+
+```shell
+git config --global color.ui true
+```
