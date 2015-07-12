@@ -1,10 +1,14 @@
 # Ruby
 
-Before installing Ruby, we will install **[rbenv](https://github.com/sstephenson/rbenv)**. *rbenv* manages  the Ruby versions for your application and guarantee that your development environment matches production.
+Before installing Ruby, we will install **[rbenv](https://github.com/sstephenson/rbenv)**. 
 
-We're going to use rbenv to install and manage our Ruby versions.
+*rbenv* manages  the Ruby versions for your applications and guarantee that your development environment matches production. I know that *rvm* is a more popular pick on this subject, but [this rundown](https://github.com/sstephenson/rbenv/wiki/Why-rbenv%3F) summarizes the good reasons to pick rbenv instead.
 
-To do this, run the following commands in your Terminal:
+To install run:
+
+```shell
+brew install rbenv ruby-build
+```
 
 </br>
 
