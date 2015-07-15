@@ -7,7 +7,7 @@ Before installing Ruby, we will install **[rbenv](https://github.com/sstephenson
 To install run:
 
 ```shell
-brew install rbenv ruby-build
+brew install rbenv ruby-build rbenv-gem-rehash
 ```
 
 
