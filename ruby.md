@@ -7,11 +7,21 @@ Before installing Ruby, we will install **[rbenv](https://github.com/sstephenson
 To install run:
 
 ```shell
-brew install rbenv ruby-build rbenv-gem-rehash
+$ brew install rbenv ruby-build rbenv-gem-rehash
 ```
 
+For each local environment, you have to set it (and install it if needed):
 
+```shell
+$ rbenv install 2.2.2
+$ rbenv local 2.2.2
+```
 
+Then you can set your favorite Ruby version:
+
+```shell
+$ rbenv global 2.2.2
+```
 
 
 </br>
