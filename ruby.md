@@ -10,6 +10,10 @@ To install run:
 $ brew install rbenv ruby-build rbenv-gem-rehash
 ```
 
+For other usefull plugins checkout this [list](https://github.com/sstephenson/rbenv/wiki/Plugins). Here is my list:
+* **rbenv-vars**: lets you set global and project-specific environment variables before spawning Ruby processes.
+* 
+
 For each local environment, you have to set it (and install it if needed):
 
 ```shell
@@ -23,11 +27,7 @@ Then you can set your favorite Ruby version:
 $ rbenv global 2.2.2
 ```
 
-After that update your system gems:
 
-```shell
-$ gem update --system
-```
 
 
 
