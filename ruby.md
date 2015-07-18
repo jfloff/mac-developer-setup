@@ -23,7 +23,14 @@ Then you can set your favorite Ruby version:
 $ rbenv global 2.2.2
 ```
 
-After that 
+After that update your system gems:
+
+```shell
+$ gem update --system
+```
+
+
+
 
 
 </br>
