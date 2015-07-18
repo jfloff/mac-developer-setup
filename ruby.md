@@ -13,7 +13,19 @@ $ brew install rbenv ruby-build rbenv-gem-rehash
 For other usefull plugins checkout this [list](https://github.com/sstephenson/rbenv/wiki/Plugins). Here is my list:
 * **rbenv-vars**: lets you set global and project-specific environment variables before spawning Ruby processes.
 
-For each local environment, you have to set it (and install it if needed):
+After that, add the following line to your `~/.zshrc`. 
+
+```shell
+# To use Homebrew's directories rather than ~/.rbenv add to your profile:
+export RBENV_ROOT=/usr/local/var/rbenv
+# To enable shims and autocompletion add to your profile:
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+```
+
+**Warning:** Make sure you add the following lines **after** the `PATH` definition.
+
+
+Now, for each local environment, you have to set it (and install it if needed):
 
 ```shell
 $ rbenv install 2.2.2
