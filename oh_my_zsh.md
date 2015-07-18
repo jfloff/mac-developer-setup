@@ -31,8 +31,7 @@ Finally add this line to your ```.zshrc``` so your aliases files is sourced corr
 
 To install just run this commands:
 ```shell
-$ mkdir ~/.antigen
-$ curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > ~/.antigen/antigen.zsh
+$ git clone https://github.com/zsh-users/antigen .antigen
 $ source ~/.antigen/antigen.zsh
 ```
 
