@@ -58,6 +58,11 @@ Add the following lines to your `.zshrc` file and `source` it:
 eval "$(hub alias -s)"
 ```
 
+Now we make HTTPS the default protocol for GitHub repositories:
+
+```shell
+git config --global hub.protocol https
+```
 
 
 Now you can do stu
