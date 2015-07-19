@@ -38,6 +38,6 @@ $ git config --global user.email "YOUR EMAIL"
 $ git config --global github.user github_user
 $ git config --global github.token github_token
 
-# for us to use recomended HTTPS method
+# To use the recommended HTTPS method
 $ git config --global credential.helper osxkeychain
 ```
