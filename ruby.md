@@ -14,6 +14,15 @@ For other usefull plugins checkout this [list](https://github.com/sstephenson/rb
 * **rbenv-vars**: lets you set global and project-specific environment variables before spawning Ruby processes.
 * **rbenv-default-gems**: creates a hook into the `rbenv install` command to automatically install gems every time you install a new version of Ruby.
 
+There is a known bug with Mac OSX default openssl. Due to that, we have to install Hombrew's openssl package. 
+
+```shell
+# uninstall it first if you already have it
+$ brew uninstall openssl
+
+$ brew install openssl
+```
+
 After that, add the following line to your `~/.zshrc`. 
 
 ```shell
@@ -21,6 +30,8 @@ After that, add the following line to your `~/.zshrc`.
 export RBENV_ROOT=/usr/local/var/rbenv
 # To enable shims and autocompletion add to your profile:
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+# To fix the openssl but with Homebrew package
+export CONFIGURE_OPTS="--with-openssl-dir=`brew --prefix openssl`"
 ```
 
 **Warning:** Make sure you add the following lines **after** the `PATH` definition.
