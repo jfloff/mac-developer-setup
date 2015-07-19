@@ -34,5 +34,5 @@ $ git config --global user.name "YOUR NAME"
 $ git config --global user.email "YOUR EMAIL"
 $ git config --global core.editor "atom --wait"
 $ git config --global github.user github_user
-$ 
+$ git config --global github.token github_token
 ```
