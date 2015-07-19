@@ -28,8 +28,10 @@ After that, add the following line to your `~/.zshrc`.
 ```shell
 # To use Homebrew's directories rather than ~/.rbenv add to your profile:
 export RBENV_ROOT=/usr/local/var/rbenv
+
 # To enable shims and autocompletion add to your profile:
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+
 # To fix the openssl but with Homebrew package
 export CONFIGURE_OPTS="--with-openssl-dir=`brew --prefix openssl`"
 ```
