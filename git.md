@@ -63,6 +63,3 @@ Now we make HTTPS the default protocol for GitHub repositories:
 ```shell
 git config --global hub.protocol https
 ```
-
-
-Now you can do stu
