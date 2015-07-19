@@ -38,12 +38,6 @@ Then you can set your favorite Ruby version:
 $ rbenv global 2.2.2
 ```
 
-
-
-
-
-
-
 </br>
 
 Don't touch my *rubys* ...
