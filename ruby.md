@@ -48,6 +48,11 @@ install: --no-rdoc --no-ri
 update: --no-rdoc --no-ri
 ```
 
+The `rbenv-default-gems` plugin will automatically installs the gems listed in the `~/.rbenv/default-gems`, every time you successfully install a new version of Ruby with `rbenv install`. Here is my `default-gems` file:
+
+```shell
+bundler
+```
 
 </br>
 
