@@ -50,12 +50,14 @@ $ git config --global credential.helper osxkeychain
 brew install hub
 ```
 
-Add the following lines to your `.zshrc` file:
+Add the following lines to your `.zshrc` file and `source` it:
 
 ```shell
 # Using hub feels best when it's aliased as git. 
 # Your normal git commands will all work, hub merely adds some sugar.
 eval "$(hub alias -s)"
 ```
+
+
 
 Now you can do stu
