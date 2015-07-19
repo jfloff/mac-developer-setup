@@ -57,3 +57,10 @@ First of all I removed the apps I don't use: Mail and Safari. Then I edited my n
 
 On iCloud I removed the apps that I don't use: Mail and Safari. Then, I setup iCloud Drive, Photos sharing with iOS, Keychain and Back to my Mac.
 
+### Other settings
+
+```shell
+#Show the ~/Library folder
+$ chflags nohidden ~/Library
+```
+
