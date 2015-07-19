@@ -38,6 +38,16 @@ Then you can set your favorite Ruby version:
 $ rbenv global 2.2.2
 ```
 
+### Gems
+
+First lets avoid gems to install documentation, we don't need that, we have the interwebs. Add this couple of lines to you `~/.gemrc` file:
+
+```shell
+install: --no-rdoc --no-ri
+update: --no-rdoc --no-ri
+```
+
+
 </br>
 
 Don't touch my *rubies* ...
