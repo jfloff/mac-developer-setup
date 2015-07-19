@@ -12,6 +12,7 @@ $ brew install rbenv ruby-build rbenv-gem-rehash
 
 For other usefull plugins checkout this [list](https://github.com/sstephenson/rbenv/wiki/Plugins). Here is my list:
 * **rbenv-vars**: lets you set global and project-specific environment variables before spawning Ruby processes.
+* **rbenv-default-gems**: creates a hook into the `rbenv install` command to automatically install gems every time you install a new version of Ruby.
 
 After that, add the following line to your `~/.zshrc`. 
 
