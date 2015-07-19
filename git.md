@@ -30,9 +30,14 @@ Take note that this command is for *zsh* shell.
 
 ```shell
 $ git config --global color.ui true
+$ git config --global core.editor "atom --wait"
+
+# Github settings
 $ git config --global user.name "YOUR NAME"
 $ git config --global user.email "YOUR EMAIL"
-$ git config --global core.editor "atom --wait"
 $ git config --global github.user github_user
 $ git config --global github.token github_token
+
+# for us to use recomended HTTPS method
+$ git config --global credential.helper osxkeychain
 ```
