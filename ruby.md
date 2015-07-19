@@ -40,6 +40,6 @@ $ rbenv global 2.2.2
 
 </br>
 
-Don't touch my *rubys* ...
+Don't touch my *rubies* ...
 
 ![](http://33.media.tumblr.com/dfff76814a75fb49d0d7b570b9887c0a/tumblr_n9k0pukYAM1s3ulybo2_250.gif)
