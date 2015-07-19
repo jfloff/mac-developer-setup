@@ -41,3 +41,21 @@ $ git config --global github.token github_token
 # To use the recommended HTTPS method
 $ git config --global credential.helper osxkeychain
 ```
+
+### Hub
+
+[hub](https://github.com/github/hub) is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier. To install it run:
+
+```shell
+brew install hub
+```
+
+Add the following lines to your `.zshrc` file:
+
+```shell
+# Using hub feels best when it's aliased as git. 
+# Your normal git commands will all work, hub merely adds some sugar.
+eval "$(hub alias -s)"
+```
+
+Now you can do stu
