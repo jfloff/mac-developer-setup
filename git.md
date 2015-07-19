@@ -31,5 +31,5 @@ Take note that this command is for *zsh* shell.
 ```shell
 $ git config --global color.ui true
 $ git config --global user.name "João Ferreira Loff"
-$ git config --global user.email jfloff@gmail.com
+$ git config --global user.email "jfloff@gmail.com"
 ```
