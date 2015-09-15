@@ -23,6 +23,14 @@ After installing I also change the application directory for the symlinks Cask c
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 ```
 
+### Alfre Support
+
+Alfred and Cask work together flawlessly. After you install Alfred run this command so he searches your casks:
+
+```shell
+$ brew cask alfred link
+```
+
 ### Applications
 
 Usually, I use the App Store for the applications that are available (to take advantage its auto-update feature). When That doesn't happen, I install it using *cask*. 
