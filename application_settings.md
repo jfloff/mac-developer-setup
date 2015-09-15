@@ -30,6 +30,8 @@ There are many little configurations you can do in Alfred, here are the ones I u
 
 I also use a couple of interesting workflows, namely:
 * **[alfred-terminalfinder](https://github.com/LeEnno/alfred-terminalfinder)**: workflow to open current Finder window in Terminal/iTerm and vice versa.
+* **[alfred-convert](https://github.com/deanishe/alfred-convert)**: workflow for connvert between different units
+* **[spotifious](https://github.com/citelao/Spotify-for-Alfred)**: a natural Spotify controller
 
 
 
