@@ -22,6 +22,7 @@ Yes, I will give them all ... And if you want more, checkout ***Homebrew*** chap
 * **[Dropbox](https://www.dropbox.com/downloading?os=mac)**: You know, it's Dropbox.
 
 ### Others
+* [Spotify](https://www.spotify.com/): Everyone needs a litter music
 * **[Alinof Timer](https://itunes.apple.com/us/app/alinof-timer/id512464723?mt=12)**: Alinof Timer is a very easy to use timer for your Mac.
 * **[Transmission](http://www.transmissionbt.com/)**: Torrent management done right.
 * **[VLC](http://www.videolan.org/vlc/)**: The best media player. Ever. Period.
