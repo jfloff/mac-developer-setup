@@ -44,6 +44,7 @@ $ brew cask install apptrap
 $ brew cask install apptrap
 $ brew cask install asepsis
 $ brew cask install smcfancontrol
+$ brew cask install spotify
 ```
 
 ### Quick look plugins
